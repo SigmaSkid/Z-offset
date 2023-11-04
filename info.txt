@@ -1,0 +1,4 @@
+name = Z-offset
+author = Weaboo
+description = displaces objects when loading maps to prevent z fighting.
+tags = Gameplay
