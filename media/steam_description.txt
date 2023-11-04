@@ -1,0 +1,3 @@
+displaces objects when loading maps to prevent z fighting
+
+[url=https://github.com/SigmaSkid/Z-offset]Git[/url]
